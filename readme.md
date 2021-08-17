@@ -3,7 +3,7 @@
 ### Instalando o projeto
 
 #### Clonar o projeto
-'git clone https://github.com/Sorrilha26/imersao-multistack-tw.git'
+'git clone https://github.com/DenisSorrilha/imersao-multistack-tw.git'
 #### Instalar dependências
 'pip install -r requirements.txt'
 #### Alterar configurações do BD no arquivo 'settings.py'
